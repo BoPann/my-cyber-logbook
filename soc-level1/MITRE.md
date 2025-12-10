@@ -34,8 +34,8 @@ This is a handbook for a SOC analyst to do research and serve as a guideline whe
 There are tons of different attacks happening every day, and the landscape changes fast. 
 MITRE gives us a shared playbook so we can understand, detect, and respond to those incidents more effectively.
 
-ATT&CK - explains who the adversary is and how they operate. (Offense)
-CAR - gives you the actual detection logic (analytics/queries) for tools like Splunk can use to spot those ATT&CK techniques. (Detection)
-D3FEND - outlines the defensive techniques that prevent, block, or disrupt those attacks. (Defense/Prevention)
+- ATT&CK - explains who the adversary is and how they operate. (Offense)
+- CAR - gives you the actual detection logic (analytics/queries) for tools like Splunk can use to spot those ATT&CK techniques. (Detection)
+- D3FEND - outlines the defensive techniques that prevent, block, or disrupt those attacks. (Defense/Prevention)
 
 ## 4. Extended Readings
