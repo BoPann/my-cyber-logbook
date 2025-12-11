@@ -17,5 +17,5 @@ And who knows? Maybe this will help others who are on the same journey too. 😊
 - [My SOC Analyst Log](soc-level1/README.md)
 - [Help Desk Log](tcm-practical-help-desk/README.md)
 
-## While taking 
-- [sinkhole](sinkhole/README.md)
+## Some Old Projects 
+- [Sinkholing](sinkhole/README.md)
