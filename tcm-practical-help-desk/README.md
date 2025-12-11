@@ -1,5 +1,5 @@
-- [ticketing](ticketing.md)
-- [administering-local-user-account](administering-local-user-account.md)
+- [Ticketing](ticketing.md)
+- [Windows](Windows.md)
 
 
 ## Perhaps the most common Question
