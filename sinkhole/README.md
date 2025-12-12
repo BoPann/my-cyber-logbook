@@ -4,7 +4,7 @@ Hi there! This is my study note on **DNS sinkholing**, created for my _Security 
 
 In this repo, you’ll find:
 
-- How DNS is used as a defensive tool (sinkhole) -> [sinkhole overview](sinkhole%20overview.md)
+- How DNS is used as a defensive tool (sinkhole) -> [sinkhole-overview](sinkhole-overview.md)
     
 - Two real-world case studies
 	- [Case study 1 - Microsoft Conficker (MS08-067)](Case-study-1.md)
