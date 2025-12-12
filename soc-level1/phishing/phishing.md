@@ -27,7 +27,7 @@ tags:
 
 ## Extended Readings
 - ### 4.1 Related Reading 
-	- [day2-phishing](../../advent-of-cyber-2025/day2-phishing.md)
+	- [AoC Day2 Phishing](../../advent-of-cyber-2025/day2-phishing.md)
 - ### 4.2 Resources
 	- [Youtube: How Email Works?](https://www.youtube.com/watch?v=IMLFrYqI-oQ)
 	- [Understanding Email](https://web.archive.org/web/20221219232959/https://mediatemple.net/community/products/all/204643950/understanding-an-email-header)
