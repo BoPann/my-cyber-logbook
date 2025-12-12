@@ -13,9 +13,9 @@ And who knows? Maybe this will help others who are on the same journey too. 😊
 
 # 2. Things I am currently working on!
 
-- [Advent of Cyber Log](advent-of-cyber-2025/README.md)
-- [My SOC Analyst Log](soc-level1/README.md)
-- [Help Desk Log](tcm-practical-help-desk/README.md)
+- [Advent of Cyber Logbook](advent-of-cyber-2025/README.md)
+- [My SOC Analyst Logbook](soc-level1/README.md)
+- [Help Desk Logbook](tcm-practical-help-desk/README.md)
 
 ## Some Old Projects 
 - [Sinkholing](sinkhole/README.md)

@@ -5,7 +5,6 @@ tags:
   - cyber/atk
 ---
 
-pretend to be good guy by wearing a hat
-
+pretend to be good guy by wearing a tie (because everybody wears tie in the business building right?)
 ## Extended Readings
 - [timestomp](https://attack.mitre.org/techniques/T1070/006/)

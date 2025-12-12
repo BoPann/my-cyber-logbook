@@ -1,5 +1,5 @@
 # SOC Workbook and Lookup
-![dwight-sheriff](imgs/dwight-sheriff.png)
+![dwight-sheriff](../cyber-img/dwight-sheriff.png)
 >This lesson we learn about how to use resource available to us to analyze SIEM event! Like a sheriff (sort of)
 
 ## Idedity and Asset

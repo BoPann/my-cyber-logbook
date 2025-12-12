@@ -1,7 +1,7 @@
 
 # Why Can't I Connect to the Internet???
 > We’ve all been there, haven’t we? But hey, as help desk folks, we’re supposed to troubleshoot the problem… not scream into the void like the Wi-Fi personally betrayed us. 
-![ross-confused](imgs/ross-confused.png)
+![ross-confused](../cyber-img/ross-confused.png)
 
 ## 1. Overview
 The troubleshooting process will depend on the OS the device is currently running. But generally, it should look similar. We can go from layer1 - layer3 and figure out the problem steps by stpes. 
