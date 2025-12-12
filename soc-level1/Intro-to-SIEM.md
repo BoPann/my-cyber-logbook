@@ -5,7 +5,6 @@ Security Information and Event Management system
 ## What does it do? 
 - A SIEM pulls logs from a bunch of different sources into one platform.
 	- For example, Linux OS stores all the related logs, such as events, errors, warnings, etc. These are then ingested into SIEM for continuous monitoring. See [Linux-Log](Linux-Log.md)
-Since every device and app logs things differently
 - Since every device and app logs things differently, SIEM normalizes the data so everything follows the same format
 - SIEM correlates the logs of different sources and finds any relationship between them. This helps to identify malicious activity by analyzing its pattern
 	- Here is a example given from THM
