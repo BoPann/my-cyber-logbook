@@ -3,7 +3,7 @@ creation date: 2025-12-05 12:47
 modified: 2025-12-05 12:47
 tags:
 ---
->The term **kill chain** is a military concept related to the structure of an attack. It consists of target identification, decision and order to attack the target, and finally the target destruction.
+> The term **kill chain** is a military concept related to the structure of an attack. It consists of target identification, decision and order to attack the target, and finally the target destruction.
 
 - [Reconnasissance](reconnasissance.md)
 	- Gather info 
