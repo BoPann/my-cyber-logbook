@@ -1,3 +1,8 @@
+---
+creation date: 2025-12-12 20:40
+modified: 2025-12-13 00:02
+tags:
+---
 # Day 12 Phishing
 I have a detailed article about phishing in my SOC Log: [phishing](../soc-level1/phishing-analysis/phishing.md)
 
@@ -22,3 +27,5 @@ Here is a good exmaple from Day 12 AoC from TryHackMe
 
 ![](../cyber-img/phishing-mail.png)
 
+
+>last modified: 2025-12-13 00:02
