@@ -5,7 +5,7 @@ tags:
 ---
 > The term **kill chain** is a military concept related to the structure of an attack. It consists of target identification, decision and order to attack the target, and finally the target destruction.
 
-- [Reconnasissance](reconnasissance.md)
+- [Reconnasissance](../atks/reconnasissance.md)
 	- Gather info 
 - Weaponization
 	- create Malware, exploits, payload
@@ -17,7 +17,7 @@ tags:
 - Installation
 	- back door
 	- Once the attacker gets access to the system, he would want to reconnect back to the system if he loses the connection to it or if he got detected and got the initial access removed.
-	- web shell, meterpreter, [masquerading](masquerading.md), [Timestomp](Timestomp.md)
+	- web shell, meterpreter, [masquerading](../atks/masquerading.md), [Timestomp](../atks/Timestomp.md)
 - Command & Control 
 	- C2
 	- continuing talking the C2 server 

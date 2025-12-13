@@ -1,6 +1,6 @@
 ---
 creation date: 2025-12-10 22:55
-modified: 2025-12-10 22:55
+modified: 2025-12-12 21:50
 tags:
   - cyber/atk
 ---
@@ -31,3 +31,6 @@ tags:
 	- [Youtube: How Email Works?](https://www.youtube.com/watch?v=IMLFrYqI-oQ)
 	- [Understanding Email](https://web.archive.org/web/20221219232959/https://mediatemple.net/community/products/all/204643950/understanding-an-email-header)
 	- [How to Spot a Phishing Email in 2025? ](https://www.itgovernance.co.uk/blog/5-ways-to-detect-a-phishing-email)
+
+
+>last modified: 2025-12-12 21:50

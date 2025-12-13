@@ -1,6 +1,6 @@
 ---
 creation date: 2025-12-11 11:36
-modified: 2025-12-11 11:36
+modified: 2025-12-12 21:54
 tags:
   - cyber/atk
 ---
@@ -13,3 +13,6 @@ tags:
 - **[Whaling](https://www.rapid7.com/fundamentals/whaling-phishing-attacks/)** - is similar to spear phishing, but it's targeted specifically to C-Level high-position individuals (CEO, CFO, etc.), and the objective is the same. 
 - [**Smishing**](https://www.proofpoint.com/us/threat-reference/smishing) - takes phishing to mobile devices by targeting mobile users with specially crafted text messages. 
 - [**Vishing**](https://www.proofpoint.com/us/threat-reference/vishing) - is similar to smishing, but instead of using text messages for the social engineering attack, the attacks are based on voice calls.
+
+
+>last modified: 2025-12-12 

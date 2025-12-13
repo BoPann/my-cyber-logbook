@@ -1,3 +1,8 @@
+---
+creation date: 2025-12-11 12:06
+modified: 2025-12-12 21:54
+tags:
+---
 
 # Phishing Analysis
 > Have you been phished?
@@ -59,3 +64,6 @@
 - sandbox tool
 	- https://app.any.run/
 	- https://hybrid-analysis.com/
+
+
+>last modified: 2025-12-12

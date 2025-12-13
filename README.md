@@ -1,5 +1,5 @@
 # 1. README
-Hi there! Welcome to my cyber logbook!
+Hi there! Welcome to Bo Cyber Logbook!
 ## 1.1 Motivation 
 When I was training to be a pilot, every lesson ended with a ritual: my instructor and I would sit down and debrief. We would talk about what went well, what almost went well, and what absolutely did not go well. Then he’d sign my logbook with all the details including flight time, how many takeoffs and landings I didn’t mess up, how long we stayed in the air, which airports we bothered.
 
@@ -13,9 +13,10 @@ And who knows? Maybe this will help others who are on the same journey too. 😊
 
 # 2. Things I am currently working on!
 
-- [Advent of Cyber Logbook](advent-of-cyber-2025/README.md)
 - [My SOC Analyst Logbook](soc-level1/README.md)
+- [Advent of Cyber Logbook](advent-of-cyber-2025/README.md)
 - [Help Desk Logbook](tcm-practical-help-desk/README.md)
 
 ## Some Old Projects 
 - [Sinkholing](sinkhole/README.md)
+- [Pi-Hole Set Up Walkthrough](pi-hole-set-up/README.md)

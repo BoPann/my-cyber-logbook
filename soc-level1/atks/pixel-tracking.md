@@ -1,6 +1,6 @@
 ---
 creation date: 2025-12-11 12:37
-modified: 2025-12-11 12:41
+modified: 2025-12-12 21:55
 tags:
   - cyber/atk
 ---
@@ -27,3 +27,6 @@ It involves embedding a tiny, transparent, usually **1x1 pixel image** into the 
     - **Referring URL** (the page the user came from).
         
 4. **Analysis:** Marketers use this collected data to measure the success of campaigns, track **conversions** (like purchases or sign-ups), and perform **retargeting** (showing relevant ads to people who visited a specific page).
+
+
+>last modified: 2025-12-12 21:55

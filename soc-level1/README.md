@@ -28,7 +28,7 @@ tags:
 	- [Kibana](tools/Kibana.md)
 
 - Analysis 
-	- [Phishing](phishing/phishing.md)
+	- [Phishing](phishing-analysis/phishing.md)
 
 * Monitoring
 	* Network

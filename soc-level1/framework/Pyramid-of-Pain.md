@@ -21,7 +21,7 @@ Top = extremely hard and expensive to bypass.
 	- These are tied to how the malware **functions**. Changing them requires modifying the malware code.
 	- Attackers need change code and redeploy
 5. tools (this level will give attackers headache)
-	- [fuzzy hashing](fuzzy-hashing.md)
+	- [fuzzy hashing](../atks/fuzzy-hashing.md)
 	- Metasploit
 	- Attacks need to write new malware, change tools
 6. TTPs - Tactics, Techniquee & Procedures

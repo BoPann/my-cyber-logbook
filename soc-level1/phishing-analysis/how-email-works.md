@@ -1,6 +1,6 @@
 ---
 creation date: 2025-12-10 23:23
-modified: 2025-12-10 23:23
+modified: 2025-12-12 21:54
 tags:
   - cyber/networking
 ---
@@ -16,7 +16,7 @@ It relys on 3 protocols: SMTP, POP3, IMAP
 Email generally follow a format called IMF (Internet Message Format). It is a set of rule of how an email meesage must follow (like `From:`, `To:`, `Subject:`)
 
 ### 2.2 Email Header 
-- Received - the last hop before it reaches your email server (the is the _ONLY_ header that can be trusted, other fields can be [masqueraded](../masquerading.md))
+- Received - the last hop before it reaches your email server (the is the _ONLY_ header that can be trusted, other fields can be [masqueraded](../atks/masquerading.md))
 - Return Path - the return email addr if the email fails to delivered
 - X-Originating-ip - sender's ip 
 
@@ -37,3 +37,5 @@ Email generally follow a format called IMF (Internet Message Format). It is a se
 ## 3. Extended Readings
 - [POP3 vs IMAP](https://help.aol.com/articles/what-is-the-difference-between-pop3-and-imap)
 - [Email Configuration](https://help.dreamhost.com/hc/en-us/articles/214918038-Email-client-configuration-overview)
+
+>last modified: 2025-12-12

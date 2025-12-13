@@ -1,5 +1,5 @@
 # Day 12 Phishing
-I have a detailed article about phishing in my SOC Log: [phishing](../soc-level1/phishing/phishing.md)
+I have a detailed article about phishing in my SOC Log: [phishing](../soc-level1/phishing-analysis/phishing.md)
 
 
 Here it also discuss the difference between **Spam** and **Phishing**:

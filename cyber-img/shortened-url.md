@@ -8,7 +8,7 @@ tags:
 > Hmm... something looks fishy. (it probably is)
 
 ## Overview 
-Many atks (especially [Phishing](my-cyber-logbook/soc-level1/phishing/phishing.md)) like to shorten their URL to make it look less suspecious. It help hide their real domain and bypass the security check (evasion). 
+Many atks (especially [Phishing](../soc-level1/phishing-analysis/phishing.md)) like to shorten their URL to make it look less suspecious. It help hide their real domain and bypass the security check (evasion). 
 
 ## Description 
 ### How to spot a shortened link? 

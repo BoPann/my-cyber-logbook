@@ -1,3 +1,8 @@
+---
+creation date: 2025-12-11 20:13
+modified: 2025-12-12 21:55
+tags:
+---
 
 # Prevention
 > How not to get phished ✋🐟
@@ -36,3 +41,5 @@ There are some protections in place to do this. In addition, company usually has
 - **Phishing Reporting**: Easy, in-email reporting options that let users quickly report suspicious messages.
 - **User Awareness Training**: Train employees on identifying phishing attempts, social engineering tactics, and safe email practices.
 - **Phishing Simulation Exercises**: Run controlled phishing campaigns to test and reinforce employee training.
+
+>last modified: 2025-12-12

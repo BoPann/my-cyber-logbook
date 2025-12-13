@@ -17,4 +17,4 @@ XSS is a type of vulnerability that allows an attacker to **inject malicious cli
 
 ### 2.2 Reflected XSS
 - attacker crafts a malicious URL containing the script and send it to the victims
-- usually requires some social engineering such as [phishing](../phishing/phishing.md)
+- usually requires some social engineering such as [phishing](../phishing-analysis/phishing.md)
