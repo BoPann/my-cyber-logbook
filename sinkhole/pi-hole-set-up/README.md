@@ -1,4 +1,4 @@
-## Pi-Hole Set Up
+# Pi-Hole Set Up
 
 Hi there!  
 Want a safer online environment?  
