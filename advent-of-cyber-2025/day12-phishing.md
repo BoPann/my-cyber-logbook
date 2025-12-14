@@ -2,10 +2,11 @@
 creation date: 2025-12-12 20:40
 modified: 2025-12-13 00:02
 tags:
+  - cyber/atk
 ---
 # Day 12 Phishing
-I have a detailed article about phishing in my SOC Log: [phishing](../soc-level1/phishing-analysis/phishing.md)
-
+- I have a detailed article about phishing in my SOC Log: [phishing](../soc-level1/phishing-analysis/phishing.md)
+- Also check out day 2 to see how easy it is to craft a phishing email!
 
 Here it also discuss the difference between **Spam** and **Phishing**:
 

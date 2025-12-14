@@ -13,3 +13,5 @@ My journey saving the Christmas of Wareville!
 - [day-10-SOC-triage](day-10-SOC-triage.md)
 - [day11-XXS](day11-XXS.md)
 - [day12-phishing](day12-phishing.md)
+- [day13-YARA](day13-YARA.md)
+- [day14-docker-container](day14-docker-container.md)

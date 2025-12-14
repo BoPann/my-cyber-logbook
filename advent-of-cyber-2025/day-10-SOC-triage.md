@@ -22,9 +22,6 @@ Similar to how we handled the **SOC Workbook and Lookup**, what we’re doing he
 - atk stage/context (again, how bad is it really?? )
 - affected assets (impact) (seriously, How bad is it ???)
 
-## 3. Why it Matters?
-
-
 ## 4. Extended Readings
 - [SIEM](../soc-level1/tools/SIEM.md)
 - [SOAR](../soc-level1/tools/SOAR.md)
