@@ -1,3 +1,6 @@
+# Pi-Hole Setup Walkthrough
+> It's easy, trust me
+
 1. Grab a spare laptop (or a Raspberry Pi if you want to feel extra fancy).
     
 2. Make sure Docker is installed on that machine. (Or use a virtual machine if you like extra layers of abstraction.)

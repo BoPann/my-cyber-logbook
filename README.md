@@ -19,4 +19,4 @@ And who knows? Maybe this will help others who are on the same journey too. 😊
 
 ## Some Old Projects 
 - [Sinkholing](sinkhole/README.md)
-- [Pi-Hole Set Up Walkthrough](pi-hole-set-up/README.md)
+- [Pi-Hole Set Up Walkthrough](sinkhole/pi-hole-set-up/README.md)

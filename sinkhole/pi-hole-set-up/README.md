@@ -1,3 +1,5 @@
+## Pi-Hole Set Up
+
 Hi there!  
 Want a safer online environment?  
 Want to filter out malicious websites?  

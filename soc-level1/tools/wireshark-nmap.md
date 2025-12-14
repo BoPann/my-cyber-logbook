@@ -1,3 +1,9 @@
+---
+creation date: 2025-12-14 13:43
+modified: 2025-12-14 14:12
+tags:
+  - cyber/tool
+---
 
 ## Wireshark Port Scan
 Here are some common filter in wiereshark to detect port scanning including **TCP** and **UDP**
@@ -21,3 +27,5 @@ Here are some common filter in wiereshark to detect port scanning including **TC
 |---|---|---|---|
 |**ICMP Type 3, Code 3**|Destination Unreachable, Port Unreachable|`icmp.type==3 and icmp.code==3`|**Closed UDP Port**|
 
+
+>last modified: 2025-12-14

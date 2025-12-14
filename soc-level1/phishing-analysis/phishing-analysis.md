@@ -29,7 +29,7 @@ tags:
 - **Pixel tracking**. See [pixel-tracking](../atks/pixel-tracking.md)
 * Link manipulation
 * Credential harvesting - [example on anyrun](https://app.any.run/tasks/12dcbc54-be0f-4250-b6c1-94d548816e5c/)
-* typosquatting - see [typosquatting](../../pi-hole-set-up/imgs/typosquatting.md)
+* typosquatting - see [typosquatting](../atks/typosquatting.md)
 
 
 ### 2.3 Tools of Trade
