@@ -12,7 +12,7 @@ For SOC analysts, it’s important to:
 
 In addition, an increase in traffic volume may be observed, which could cause users to report network slowness. This is something a help desk should keep in mind.
 
-
+q
 ## Recouses 
 - [Detect Port Scan in WireShark](https://www.youtube.com/watch?v=Maec4f2gt2c)
 
