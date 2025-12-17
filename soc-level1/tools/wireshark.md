@@ -44,7 +44,7 @@
 - [Identify Host](wireshark-identify-host.md)
 - [Tunnelling](wireshark-tunnelling.md)
 - [wireshark-ftp](wireshark-ftp.md)
-- 
+- wireshark-http - the trick is to look for the response code (200, 404...)
 
 ## Limitation 
 Wireshark is not an Intrusion Detection System (IDS). It only allows analysts to discover and investigate the packets in depth. It also doesn't modify packets; it reads them. Hence, detecting any anomaly or network problem highly relies on the analyst's knowledge and investigation skills.
