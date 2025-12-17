@@ -37,13 +37,13 @@
 - For details see [Wireshark Official Guide](https://www.wireshark.org/docs/)
 
 ### 2.2 Common Analysis
-- [Nmap Scan](wireshark-nmap.md)
+- [Nmap Scan Analysis](wireshark-nmap.md)
 - Spoofing Scan 
 	- When a devices sent out multiple arp request or claiming multiple ip address, it should be examined. 
 	- When submitting credential, we are using `POST` reuqest. So we can filter wireshark using that. 
 - [Identify Host](wireshark-identify-host.md)
-- [Tunnelling](wireshark-tunnelling.md)
-- [wireshark-ftp](wireshark-ftp.md)
+- [Tunnelling Analysis](wireshark-tunnelling.md)
+- [FTP analysis](wireshark-ftp.md)
 - wireshark-http - the trick is to look for the response code (200, 404...)
 
 ## Limitation 
