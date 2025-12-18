@@ -46,4 +46,4 @@ Almost the first thing we want to look into is the **Fields** pane (like many ot
 - ![](../imgs/stats-command-min.png)
 
 ### Resources
-[Splunk Office Doc](https://docs.splunk.com/Documentation/Splunk/8.1.2/SearchTutorial/NavigatingSplunk)
+[Splunk Official Doc](https://docs.splunk.com/Documentation/Splunk/8.1.2/SearchTutorial/NavigatingSplunk)
