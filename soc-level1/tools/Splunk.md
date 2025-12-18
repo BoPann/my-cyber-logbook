@@ -16,7 +16,7 @@ Splunk is one of the leading SIEM solutions in the market. It allows users to
 ## 2. Description
 Almost the first thing we want to look into is the **Fields** pane (like many other SIEM tool). We want to get an idea of the data that are collected. Fields pane are located on the left side. 
 
-###2.1 Filtering
+### 2.1 Filtering
 
 - Splunk lets us upload your own data files and run searches on them. Just like SQL, you can filter, sort, and analyze the data — but Splunk uses its own query language (SPL)
 - Having so many fields displayed can be overwhelming. We can do `| fields to only display the fields we want`
@@ -25,7 +25,7 @@ Almost the first thing we want to look into is the **Fields** pane (like many ot
 - Or we can do `| search "Powershell"` to search the keyword we want. (but not sure how this is different from directly typing the keyword in the search bar)
 - ![](../imgs/seachbar-min.png)
 
-### Structuring
+### 2.2 Structuring
 
 - Similar to linux using `uniq` to show only the unique, we can use `dedup` here to fitler out the duplicate result. 
 - ![](../imgs/dedup-command-min.png)
