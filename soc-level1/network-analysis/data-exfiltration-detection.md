@@ -26,7 +26,7 @@ confirmation
 	- hight entropy or base32/64 patterns in the query names
 	- rare record types (TXT, NULL)
 	- regular intervals (beacons)
-![weird subdomain](../imgs/weird-subdomain.png)
+	- ![weird subdomain](../imgs/weird-subdomain.png)
 ---
 ### FTP
 Indicators 
