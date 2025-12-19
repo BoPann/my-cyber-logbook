@@ -16,7 +16,7 @@ Those entries (plus the “please stop doing that” notes) actually helped me a
 So that’s why I’m doing this cyber log. Writing these entries helps me keep track of what I’ve learned, connect the dots, and laugh at my own mistakes. Plus, it’s a cool way to connect with you -- someone who’s into the same cybersecurity madness.
 And who knows? Maybe this will help others who are on the same journey too. 😊 
 
-# 2. My Logs
+## 2. My Logs
 
 ### 2.1 Things I am currently working on
 - [My SOC Analyst Logbook](soc-level1/README.md)
@@ -26,7 +26,7 @@ And who knows? Maybe this will help others who are on the same journey too. 😊
 ### 2.2 Some Events
 - [Live Session with John Hammond on Deception Detection](detection-deception.md)
 
-## 2.3 Some Old Projects 
+### 2.3 Some Old Projects 
 - [Sinkholing](sinkhole/README.md)
 - [Pi-Hole Set Up Walkthrough](sinkhole/pi-hole-set-up/README.md)
 
