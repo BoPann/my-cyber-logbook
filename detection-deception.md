@@ -7,7 +7,7 @@ tags:
 # Deception with John Hammond Live
 > Really glad I had the opportunity to join the live session with John Hammond on **Learn Cyber Deception**. It was especially cool to hear my question get a shout-out and answered live! I asked: "The domain seems pretty obvious. Would an attacker really fall for that trap?" Short answer: Yes :) 
 
-Link: https://www.linkedin.com/events/7406436137927614465/
+Link: [https://www.linkedin.com/events/7406436137927614465/](https://www.linkedin.com/events/7406436137927614465/)
 
 Attackers try to be sneaky.  
 Defenders get sneaky on purpose.
