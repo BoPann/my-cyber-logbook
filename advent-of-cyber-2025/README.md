@@ -18,4 +18,7 @@ My journey saving the Christmas of Wareville!
 - [day15-web-attack-forensics](day15-web-attack-forensics.md)
 - [day16-windows-registry-forensics](day16-windows-registry-forensics.md)
 - [day17-cyberchef](day17-cyberchef.md)
+- [day18-obfuscation](day18-obfuscation.md)
+- [day19-industrial-control](day19-industrial-control.md)
+- [day20-racing-condition](day20-racing-condition.md)
 
