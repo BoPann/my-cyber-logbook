@@ -2,83 +2,67 @@
 ---
 @import "jekyll-theme-primer";
 
-/* 1. Global Page Styles */
+/* Global & Reset */
 body {
   background-color: #cfcac6 !important;
-  line-height: 1.8;
-  font-size: 17px;
-  color: #24292e;
+  font-family: Georgia, serif;
+  color: #222;
+  margin: 0;
 }
 
-/* 2. Clean Typography */
-h1, h2, h3 {
-  color: #1b1f23;
-  border-bottom: 2px solid rgba(0, 0, 0, 0.1);
-  padding-bottom: 8px;
-  margin-top: 1.5em;
-}
-
-blockquote {
-  background: rgba(255, 255, 255, 0.2);
-  border-left: 4px solid #444;
-  padding: 10px 20px;
-  font-style: italic;
-  margin: 20px 0;
-}
-
-/* 3. The "Animated List" - No Boxes */
-ul {
-  list-style-type: none !important; 
-  padding-left: 0 !important;
-}
-
-ul li {
-  margin-bottom: 15px;
-  padding: 8px 0;
-  border-bottom: 1px solid rgba(0, 0, 0, 0.05); /* Subtle divider line */
-  
-  /* The Animation */
-  transition: all 0.3s ease-in-out;
-  
-  display: flex;
-  align-items: center;
-}
-
-/* Icon indicator instead of a bullet */
-ul li::before {
-  content: "→"; 
-  margin-right: 12px;
-  color: #444;
-  font-weight: bold;
-  transition: margin-right 0.3s ease;
-}
-
-/* Hover Effect: Slide text and darken the divider */
-ul li:hover {
-  transform: translateX(10px);
-  border-bottom: 1px solid #24292e;
-}
-
-ul li:hover::before {
-  margin-right: 20px; /* Expands the space of the arrow on hover */
-}
-
-/* Link Styling */
-ul li a {
-  text-decoration: none;
-  color: #0366d6;
-  font-weight: 500;
-  font-size: 1.1em;
-}
-
-ul li a:hover {
-  color: #000;
-}
-
-/* 4. Footer Image */
-img {
+/* Banner Animation */
+.banner {
+  opacity: 0;
+  transition: opacity 1.2s ease-in-out;
+  height: 400px;
+  max-height: 50vh;
+  overflow: hidden;
   display: block;
+}
+.banner.visible { opacity: 1; }
+.banner img {
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+  object-position: bottom;
+}
+
+/* Main Container */
+.main-wrapper {
+  max-width: 900px;
   margin: 40px auto;
-  border-radius: 8px;
-  max-width: 100%;
+  padding: 0 20px;
+}
+
+/* Profile Section */
+.name { font-size: clamp(2rem, 5vw, 3rem); margin-bottom: 16px; }
+.avatar img {
+  width: 110px;
+  height: 110px;
+  border-radius: 50%;
+  object-fit: cover;
+  margin-bottom: 32px;
+}
+
+/* The Grid (About Section) */
+.about-content {
+  display: grid;
+  grid-template-columns: 1fr 1fr; /* 2 columns like your example */
+  gap: 40px;
+  opacity: 0;
+  transform: translateY(30px);
+  transition: all 0.8s ease-out;
+}
+
+.about-content.active {
+  opacity: 1;
+  transform: translateY(0);
+}
+
+.about-content h3 { border-bottom: 1px solid #999; padding-bottom: 5px; }
+.about-content p { line-height: 1.6; text-align: justify; }
+
+/* Responsive Grid */
+@media (max-width: 700px) {
+  .about-content { grid-template-columns: 1fr; }
 }
