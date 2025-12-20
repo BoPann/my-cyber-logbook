@@ -3,8 +3,6 @@ creation date: 2025-12-19 10:13
 modified: 2025-12-19 12:59
 tags:
   - cyber/dfd
-layout: default
-title: Event Name
 ---
 # Deception with John Hammond Live
 > Really glad I had the opportunity to join the live session with John Hammond on **Learn Cyber Deception**. It was especially cool to hear my question get a shout-out and answered live! I asked: "The domain seems pretty obvious. Would an attacker really fall for that trap?" Short answer: Yes :) 
