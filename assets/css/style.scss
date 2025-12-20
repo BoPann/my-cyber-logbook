@@ -10,7 +10,7 @@ body {
   color: #24292e;
 }
 
-/* 2. Header and Typography Improvements */
+/* 2. Header and Typography */
 h1, h2, h3 {
   color: #1b1f23;
   border-bottom: 2px solid rgba(0, 0, 0, 0.05);
@@ -27,57 +27,60 @@ blockquote {
   margin: 20px 0;
 }
 
-/* 3. Transform Bullet Points into Logbook Cards */
+/* 3. The "Clean Card" List Style (No Bullets) */
 ul {
-  list-style: none; /* Removes the dots */
-  padding-left: 0;
+  list-style-type: none !important; /* Forces bullets to disappear */
+  padding-left: 0 !important;      /* Removes the indent where bullets used to sit */
   margin-top: 20px;
 }
 
 ul li {
-  background-color: rgba(255, 255, 255, 0.5); /* Semi-transparent white card */
+  background-color: rgba(255, 255, 255, 0.5); 
   margin-bottom: 12px;
-  padding: 12px 18px;
+  padding: 16px 20px;
   border-radius: 8px;
-  border-left: 5px solid #24292e; /* Dark "Pilot Log" accent line */
-  transition: all 0.3s ease;
+  border-left: 6px solid #24292e; /* The 'Logbook' stripe */
+  
+  /* The Animation you liked */
+  transition: all 0.3s cubic-bezier(0.25, 0.8, 0.25, 1);
+  
   display: flex;
   align-items: center;
-  box-shadow: 0 2px 4px rgba(0,0,0,0.05);
+  box-shadow: 0 2px 5px rgba(0,0,0,0.05);
 }
 
-/* Add a pilot/cyber icon before each list item */
+/* Add a clean icon instead of a bullet */
 ul li::before {
-  content: "✈️"; 
+  content: "→"; 
   margin-right: 15px;
-  font-size: 1.1em;
-  opacity: 0.8;
+  font-weight: bold;
+  color: #24292e;
 }
 
-/* Hover Effect for Interactivity */
+/* Hover Effect */
 ul li:hover {
-  transform: translateX(8px);
+  transform: translateX(12px); /* Moves card to the right */
   background-color: rgba(255, 255, 255, 0.9);
-  box-shadow: 0 4px 12px rgba(0,0,0,0.1);
+  box-shadow: 0 5px 15px rgba(0,0,0,0.1);
 }
 
-/* Link Styling inside Cards */
+/* Link Styling - making the text clear */
 ul li a {
   text-decoration: none;
   color: #0366d6;
   font-weight: 600;
-  flex-grow: 1; /* Makes the whole card area clickable */
+  font-size: 1.05em;
 }
 
 ul li a:hover {
-  text-decoration: underline;
+  color: #005cc5;
 }
 
-/* 4. Image Centering */
+/* 4. Image Styling */
 img {
   display: block;
-  margin: 20px auto;
+  margin: 30px auto;
   border-radius: 12px;
-  max-width: 100%;
-  box-shadow: 0 10px 30px rgba(0,0,0,0.15);
+  max-width: 90%;
+  box-shadow: 0 10px 30px rgba(0,0,0,0.1);
 }
