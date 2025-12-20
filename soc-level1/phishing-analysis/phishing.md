@@ -20,6 +20,7 @@ tags:
 ### 2.1 The Weakest Link
 - BEC (Business Email Compromise)
 - When the atker gains control of an internal employee's account and then uses the compromised email account to convince other internal employees to perform unauthorized or fraudulent actions.
+
 > This just shows how serious phishing really is. You can build the most indestructible, wall around your assets… and then one employee clicks a sketchy link and poof! Everything’s gone.
 
 > But we’ve _all_ been there! Spotting a well-crafted phishing email is hard. Don’t believe me? Just wait! Your confidence is about to take a hit. - [A Quick Test on Google to see how good are are at spotting them](https://phishingquiz.withgoogle.com/)
