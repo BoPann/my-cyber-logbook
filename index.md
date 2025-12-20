@@ -7,8 +7,6 @@ layout: default
 
 # Bo Pan
 
-![Avatar](cyber-img/avatar.png)
-
 ## About Me
 
 ### 1. Motivation
