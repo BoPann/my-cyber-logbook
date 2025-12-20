@@ -16,7 +16,7 @@ When I was training to be a pilot, every lesson ended with a ritual: my instruct
 
 That whole process helped me learn faster, stay accountable, and see progress, even on the days I felt like a confused pigeon in the sky. Writing these entries helps me keep track of what I’ve learned, connect the dots, and laugh at my own mistakes.
 
-### 2. My Logs
+## 2. My Logs
 * [My SOC Analyst Logbook](soc-level1/README.md)
 * [Advent of Cyber Logbook](advent-of-cyber-2025/README.md)
 * [Help Desk Logbook](tcm-practical-help-desk/README.md)
