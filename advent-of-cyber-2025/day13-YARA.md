@@ -17,6 +17,6 @@ YARA is a tool that identify and classify malware by the pattern. And by pattern
 - **Conditions:** The rule uses Boolean logic (`AND`, `OR`, `NOT`) to specify **how many** and **which** of these patterns must be present for a match to occur, allowing it to catch variants of the same malware family.
 
 ## Thoughts 
-It seems to me Yata can be used as a powerful searching engine of the local file. (Of course it can be used for detecting malwar too). I might dive deeper into this tool later on! More to come!
+It seems to me Yara can be used as a powerful searching engine of the local file. (Of course it can be used for detecting malwar too). I might dive deeper into this tool later on! More to come!
 
 >last modified: 2025-12-13 

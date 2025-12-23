@@ -1,11 +1,24 @@
 ---
 ---
 @import "jekyll-theme-primer";
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:ital,wght@0,100..900;1,100..900&display=swap');
+
+$font-family-sans: "Montserrat", sans-serif;
 
 /* Global & Reset */
 body {
-  font-family: Georgia, serif;
   color: #222;
   margin: 0;
   background-color: #cfcac6;
+  font-family: $font-family-sans;
+  font-optical-sizing: auto;
+  font-weight: 400; // Regular weight
+  font-style: normal;
+  -webkit-font-smoothing: antialiased;
+}
+
+h1, h2, h3, h4, .post-title {
+  font-family: $font-family-sans;
+  font-weight: 700; // Bold weight for headings
+  letter-spacing: -0.02em; // Montserrat looks great slightly tightened in headings
 }

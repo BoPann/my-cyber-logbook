@@ -1,7 +1,8 @@
 ---
 creation date: 2025-12-10 16:58
-modified: 2025-12-10 16:58
+modified: 2025-12-22 22:17
 tags:
+  - cyber/sys
 ---
 # Aministerin Local User Account
 
@@ -26,3 +27,9 @@ Like Linux, Windows use groups to assign permissions to multiple users efficient
 Access Control Management is a important part of the help desk job. It is also about the data security of the company assets. 
 
 
+
+## Resources
+- [Windows Process](https://tryhackme.com/room/btwindowsinternals)
+
+
+>last modified: 2025-12-22

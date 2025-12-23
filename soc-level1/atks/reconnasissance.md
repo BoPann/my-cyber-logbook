@@ -9,10 +9,12 @@ tags:
 	- social engineering 
 	- port scanning
 	- probbing
+	- `when someone is actively scanning the network, the defender should be alerted. 
 2. **Passive** - indirective contact
 	- whois lookup 
 	- social media scraping
 	- reviewing breach data.
+	- `There is not much the defenders can do about this, as the informaiton is public available. 
 
 ## Email (for phishing... )
 

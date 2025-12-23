@@ -21,4 +21,7 @@ My journey saving the Christmas of Wareville!
 - [day18-obfuscation](day18-obfuscation.md)
 - [day19-industrial-control](day19-industrial-control.md)
 - [day20-racing-condition](day20-racing-condition.md)
+- [day21-malware-analysis](day21-malware-analysis.md)
+- [day22-c2](day22-c2.md)
+- 
 

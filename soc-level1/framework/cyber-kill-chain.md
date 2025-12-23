@@ -3,10 +3,20 @@ creation date: 2025-12-05 12:47
 modified: 2025-12-05 12:47
 tags:
 ---
-> The term **kill chain** is a military concept related to the structure of an attack. It consists of target identification, decision and order to attack the target, and finally the target destruction.
 
+# Cyber Kill Chain
+
+
+<p align="center"> <img src="../../cyber-img/andy-prius.png" width="80%" style="border-radius: 15px;"> </p>
+>The term **kill chain** is a military concept related to the structure of an attack. It consists of target identification, decision and order to attack the target, and finally the target destruction. 
+
+## Why Matters?
+Knowing this help the defenders predict the nest step of the attackers, and it allows them to better defend the system. If we as defenders see a C2 beacon (Command & Control), we shouldn't go back and try to find the Delivery (still important during invistigation). Instead, we should watch out for data exfiltration which might the the attackers' objectives.  
+
+## Description
 - [Reconnasissance](../atks/reconnasissance.md)
 	- Gather info 
+	- google dorking (or any dorking)
 - Weaponization
 	- create Malware, exploits, payload
 - Delivery
@@ -27,6 +37,7 @@ tags:
 	- overwrite data 
 	- later movement to other machine
 
+## UKC (unified Kill Chain)
+a more detailed version. Expanded especially in the action phase
 
-## Extended Reading
-- [unified-kill-chain](unified-kill-chain.md)
+![](../imgs/UKC.png)

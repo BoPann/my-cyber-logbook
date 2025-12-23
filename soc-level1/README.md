@@ -11,7 +11,7 @@ tags:
 - Framework
 	- [MITRE](framework/MITRE.md)
 	- [Pyramid of Pain](framework/Pyramid-of-Pain.md)
-	- [Unified Kill Chain](framework/unified-kill-chain.md) and its predecessor [Kill Chain](framework/kill-chain.md)
+	- [Cyber Kill Chain](framework/cyber-kill-chain.md)
 
 - Tool Kits
 	- [SIEM](tools/SIEM.md)
