@@ -12,13 +12,13 @@ body {
   background-color: #cfcac6;
   font-family: $font-family-sans;
   font-optical-sizing: auto;
-  font-weight: 400; // Regular weight
+  font-weight: 500; // Regular weight
   font-style: normal;
   -webkit-font-smoothing: antialiased;
 }
 
 h1, h2, h3, h4, .post-title {
   font-family: $font-family-sans;
-  font-weight: 700; // Bold weight for headings
+  font-weight: 900; // Bold weight for headings
   letter-spacing: -0.02em; // Montserrat looks great slightly tightened in headings
 }
