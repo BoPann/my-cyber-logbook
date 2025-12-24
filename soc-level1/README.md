@@ -7,6 +7,7 @@ tags:
 > Hello! Welcome to my journey taking SAL1 from TryHackMe :)
 
 - [My Mid Way Review](../mid-review.md) (yoohoo! half way through!)
+
 ## Technical Skills
 - Framework
 	- [MITRE](framework/MITRE.md)
@@ -32,9 +33,7 @@ tags:
 	* Linux Security
 	
 ## Basic Skills
--  [How to Write a Good Report?](5W-report.md)
+- [How to Write a Good Report?](5W-report.md)
 - [SOC Workbook and Lookup](SOC-Workbook-and-Lookup.md)
 - [SOC Metrics and Objectives](SOC-Metrics-and-Objectives.md)
 
-
->last modified: 2025-12-12 09:38

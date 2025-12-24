@@ -3,7 +3,7 @@
 Security Log 
 
 Authentication
-4624 (successful Logon)
+4624 (successful Logon) 
 4625 (Failed Logon)
 
 User Management
