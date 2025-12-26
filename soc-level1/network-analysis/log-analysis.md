@@ -31,6 +31,7 @@ However, in **command line Interface** environment, this can get really overwhel
 		- -e: or logic in grep
 		- we can grep multiple items by using multiple greps
 		- -E search for a pattern using regex `grep -E 'post=1[0-9]' apache-ex2.log`
+		- -i: regardless of the lower or upper case
 
 regex
 	- \b([0-9]{1,3}\.){3}[0-9]{1,3}\b

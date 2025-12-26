@@ -10,6 +10,7 @@ tags:
 	- port scanning
 	- probbing
 	- `when someone is actively scanning the network, the defender should be alerted. 
+	- nmap, nesseus
 2. **Passive** - indirective contact
 	- whois lookup 
 	- social media scraping

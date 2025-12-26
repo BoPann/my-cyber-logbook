@@ -1,3 +1,7 @@
+---
+tags:
+  - cyber/tool
+---
 # curl 
 
 Browser is one way how normal user interact with the web. However, it is not the only way (User-Agent). Another way is using `curl` command. Here are some common options: 
