@@ -10,7 +10,7 @@ RDP
 - successful logon (eventID 4624)
 - Failed Logon (enentID 4625)
 
-Phiahing
+Phishing
 usually involves open files
 
 - Sysmon Event ID 1: Web browser is launched
@@ -29,7 +29,18 @@ usually involves open files
 	- Image: C:\Users\User\Downloads\invoice.pdf.exe 
 	- ParentImage: C:\Windows\Explorer.EXE
 
-USB
+
+### Persistence
+Once inside, the attack will want to maintain persistence. Ways including C2, creating new users 
+
+#### New Users
+- GUI
+- `lusrmgr.msc`
+- ID 4720 - user creation
+- ID 4732 - privileges
+- ID 4724 - password change
+- ID 4697 - service creation 
+- ID 4698 - scheduled task creation
 
 
 ## Extended Readings

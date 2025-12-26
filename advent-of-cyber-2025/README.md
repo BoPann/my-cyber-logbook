@@ -1,6 +1,12 @@
+# Advent of Cyber
 My journey saving the Christmas of Wareville!
 
+This has been a fun journey with TryHackMe. I learned something new every day —sometimes a brand-new concept, sometimes realizing I _definitely_ didn’t know something as well as I thought I did. Overall, it was a great way to explore new cybersecurity topics while reinforcing the basics. Most importantly... Merry Soc-Mas!!!
 
+<p align="center"> <img src="../cyber-img/cert-aoc.png" width="80%" style="border-radius: 15px;"> </p>
+
+
+## Index
 - [day1-where-it-begins](day1-where-it-begins.md)
 - [day2-phishing](day2-phishing.md)
 - [day3-splunk](day3-splunk.md)
@@ -23,5 +29,5 @@ My journey saving the Christmas of Wareville!
 - [day20-racing-condition](day20-racing-condition.md)
 - [day21-malware-analysis](day21-malware-analysis.md)
 - [day22-c2](day22-c2.md)
-- 
-
+- [day23-aws](day23-aws.md)
+- [day24-curl](day24-curl.md)
