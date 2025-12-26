@@ -6,6 +6,22 @@ tags:
 ---
 
 # Phishing 🎣
+<p align="center">
+  <img src="../../cyber-img/michael-koi-pond.png" 
+       style="height: 250px; width: auto; border-radius: 15px; box-shadow: 0 10px 30px rgba(0,0,0,0.5);">
+</p>
+
+<p align="center">
+  <img src="../../cyber-img/michael-koi-pond.png" 
+       style="width: 60%; 
+              height: 200px; 
+              object-fit: cover; 
+              border-radius: 15px; 
+              box-shadow: 0 10px 40px rgba(0,0,0,0.6);
+              border: 1px solid rgba(0,255,255,0.3);">
+</p>
+
+
 <p align="center"> <img src="../../cyber-img/michael-koi-pond.png" width="80%" style="border-radius: 15px;"> </p>
 
 ## 1. Overview
