@@ -1,9 +1,15 @@
 
 # Pyramid of Pain
-## Overview
->The Pyramid of Pain shows how much it “hurts” an attacker when you detect or block certain types of indicators.
 
->Bottom = easy for the attacker to bypass.  
+<p align="center"> <img src="../../cyber-img/pyramid.png" width="80%" style="border-radius: 15px;"> </p>
+
+## Overview
+The Pyramid of Pain shows how much it “hurts” an attacker when you detect or block certain types of indicators.
+
+## Why it Matters?
+Learning about the **Pyramid of Pain** completely changed how I look at security incidents. It gives you more than just “an event”. It gives you a whole perspective. It helps connect what you’re seeing to the attacker’s mindset, and lets you understand the impact on _both_ sides of the fight.
+
+Bottom = easy for the attacker to bypass.  \
 Top = extremely hard and expensive to bypass.
 
 ## Description
@@ -28,4 +34,3 @@ Top = extremely hard and expensive to bypass.
 	- I.e, Phishing + PowerShell + C2 + lateral movement pattern
 	- Attackers must **fundamentally change their approach**, training, and operational playbook.
 
->Learning about the **Pyramid of Pain** completely changed how I look at security incidents. It gives you more than just “an event”. It gives you a whole perspective. It helps connect what you’re seeing to the attacker’s mindset, and lets you understand the impact on _both_ sides of the fight.

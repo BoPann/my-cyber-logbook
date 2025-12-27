@@ -11,7 +11,7 @@ source: [https://netwrix.com/en/resources/blog/mgm-cyber-attack/](https://netwri
 ## Articles
 ### Reconnaissance
 -  Scattered Spider members researched MGM employees on LinkedIn, gathering information about their roles and identities.
-### Initial Access (with social engineering)
+### Social Engineering (Iinitial Access from MITRE)
 - Using the gathered information, the attackers chose an MGM employee to impersonate.
 -  The hackers called MGM’s IT help desk, posing as the employee and successfully convinced the help desk into providing them with login credentials.
 ### Credential Access 

@@ -5,6 +5,7 @@ tags:
 ---
 
 # Cyber Kill Chain
+The **Unified Kill Chain** is an evolved framework that builds upon the foundations of the original **Lockheed Martin Cyber Kill Chain** to provide a more comprehensive view of modern attacks. Here I just called it Cyber Kill Chain 
 
 
 <p align="center"> <img src="../../cyber-img/andy-prius.png" width="80%" style="border-radius: 15px;"> </p>
@@ -37,7 +38,11 @@ Knowing this help the defenders predict the nest step of the attackers, and it a
 	- overwrite data 
 	- later movement to other machine
 
-## UKC (unified Kill Chain)
-a more detailed version. Expanded especially in the action phase
+## Details
+<p align="center"> <img src="../imgs/UKC.png" width="80%" style="border-radius: 15px;"> </p>
 
-![](../imgs/UKC.png)
+
+
+## Extended Readings
+- [Bo Cyber Logbook - MITRE](MITRE.md)
+- [Bo Cyber Logbook - Pyramid of Pain](Pyramid-of-Pain.md)

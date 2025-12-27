@@ -1,6 +1,6 @@
 ---
 creation date: 2025-12-26 13:23
-modified: 2025-12-27 12:15
+modified: 2025-12-27 12:49
 tags:
 ---
 ## Cyber Articles 
@@ -11,9 +11,11 @@ While technical skills are critical for staying safe, keeping up with the latest
 ## Index
 - [Are you sure about it? 🤔 - Masquerading](masquerading-malware.md)
 - [Phishing 🎣](phishing.md)
+- [MGM Data Breach](mgm-data-breach.md)
 
 
 ---
->last modified: 2025-12-27
->
->Have questions? Shoot me a text >> [Linkedin](https://www.linkedin.com/in/bopann/)
+Last Modified: 2025-12-27  \
+Have Questions? Shoot me a text >> [Linkedin](https://www.linkedin.com/in/bopann/)
+
+

@@ -10,11 +10,11 @@ tags:
 
 ## Technical Skills
 - Framework
-	- [MITRE](framework/MITRE.md)
-	- [Pyramid of Pain](framework/Pyramid-of-Pain.md)
-	- [Cyber Kill Chain](framework/cyber-kill-chain.md)
+	- [Cyber Kill Chain - What's happening, Captain? ](framework/cyber-kill-chain.md)
+	- [MITRE - The nerdy Encyclopedia ](framework/MITRE.md)
+	- [Pyramid of Pain - Can this be more Painful?](framework/Pyramid-of-Pain.md)
 
-- Tool Kits
+- Tool Box
 	- [SIEM](tools/SIEM.md)
 	- [EDR](tools/EDR.md)
 	- [SOAR](tools/SOAR.md)
