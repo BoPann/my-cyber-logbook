@@ -1,6 +1,6 @@
 ---
 creation date: 2025-12-27 11:55
-modified: 2025-12-27 12:14
+modified: 2025-12-27 12:44
 tags:
   - cyber/articles
   - cyber/atk
@@ -28,6 +28,8 @@ The incident is quite recent (2023), and it shows that social engineering is sti
 - [Bo Cyber Logbook - Cyber Kill Chain](../soc-level1/framework/cyber-kill-chain.md)
 
 
->last modified: 2025-12-27 12:14
->
->Have questions? Shoot me a text >>> [Linkedin](https://www.linkedin.com/in/bopann/)
+---
+Last Modified: 2025-12-27  \
+Have Questions? Shoot me a text >> [Linkedin](https://www.linkedin.com/in/bopann/)
+
+
