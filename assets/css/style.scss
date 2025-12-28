@@ -22,3 +22,9 @@ h1, h2, h3, h4, .post-title {
   font-weight: 900; // Bold weight for headings
   letter-spacing: -0.02em; // Montserrat looks great slightly tightened in headings
 }
+
+table, 
+th, 
+td {
+  background-color: transparent !important;
+}
