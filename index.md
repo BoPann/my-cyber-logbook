@@ -25,8 +25,8 @@ And who knows? Maybe this will help others who are on the same journey too. 😊
 
 ### 2.1 Main Quest
 * [My SOC Analyst Logbook](soc-level1/README.md)
-* [Help Desk Logbook](tcm-practical-help-desk/README.md)
 * [Cyber Articles](cyber-articles/cyber-articles.md)
+* [Help Desk Logbook](tcm-practical-help-desk/README.md)
 
 ### 2.2 Events
 * [Live Session with John Hammond](detection-deception.md)
