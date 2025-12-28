@@ -18,7 +18,7 @@ A correctly composed HTTP request contains the following elements:
 3. A message body, if needed.
 
 ### 2.1.1 HTTP header
-- Request contains additional information like host, user agent, and content type, guiding how the web server should process the request. see [Common HTTP Header](http-header.md)
+- Request contains additional information like host, user agent, and content type, guiding how the web server should process the request. see [Common HTTP Header](web-http-header.md)
 
 ### 2.1.2 Request Body
 request body contains the data sent. 
@@ -29,7 +29,7 @@ request body contains the data sent.
 
 ### 2.2 HTTP Response
 HTTP Response contains: 
-1. A status line. see [Status Code](status-code.md)
+1. A status line. see [Status Code](web-status-code.md)
 2. A series of HTTP headers, or header fields.
 3. A message body, which is usually needed.
 
@@ -43,7 +43,7 @@ HTTP Response contains:
 - location 
 
 ### 2.3 Metigation
-- [So! Let's talk about Metigation!](metigation.md)
+- [So! Let's talk about Metigation!](web-metigation.md)
 
 
 ### Resources 

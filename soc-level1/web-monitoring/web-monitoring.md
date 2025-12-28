@@ -15,14 +15,15 @@ We will spend 90% of our time looking at these two things:
 
 ## Indicators
 
-| **Attack Type**                | **What to look for in the URL/Payload**                       |
-| ------------------------------ | ------------------------------------------------------------- |
-| **SQL Injection (SQLi)**       | Keywords: `SELECT`, `UNION`, `OR 1=1`, `--`, `SLEEP()`.       |
-| **Cross-Site Scripting (XSS)** | Tags: `<script>`, `alert()`, `onerror=`.                      |
-| **Path Traversal**             | Patterns: `../../`, `/etc/passwd`, , `/admin`, `C:\Windows\`. |
-| **Remote File Inclusion**      | Links: `http://malicious-site.com/shell.txt`.                 |
-| Reverse Shell                  | Abnormal `POST` and `GET`                                     |
-| Additionally                   | uncommon user-agent (although this can be fabricated)         |
+| **Attack Type**                | **What to look for as a SOC**                                              |
+| ------------------------------ | -------------------------------------------------------------------------- |
+| **SQL Injection (SQLi)**       | Keywords: `SELECT`, `UNION`, `OR 1=1`, `--`, `SLEEP()`.                    |
+| **Cross-Site Scripting (XSS)** | Tags: `<script>`, `alert()`, `onerror=`.                                   |
+| **Path Traversal**             | Patterns: `../../`, `/etc/passwd`, , `/admin`, `C:\Windows\`.              |
+| **Remote File Inclusion**      | Links: `http://malicious-site.com/shell.txt`.                              |
+| Web Shell                      | Abnormal `POST` and `GET` see [Bo Cyber Logbook - Web Shell](web-shell.md) |
+| DDos                           | spike of traffic [Bo Cyber LogBook - Web DDoS](web-ddos.md)                |
+| Additionally                   | uncommon user-agent (although this can be fabricated)                      |
 
 
 ## Extended Readings:

@@ -30,6 +30,9 @@ CDNs store and serve cached content from servers closer to the user to reduce la
 - Enforced HTTPS: Encrypted communication via TLS is enforced by default by most CDNs.
 - Integrated WAF: Many CDNs, including [Cloudflare CDN](https://www.cloudflare.com/), [Amazon CloudFront](https://aws.amazon.com/cloudfront/) & [Azure Front Door](https://learn.microsoft.com/en-us/azure/frontdoor/front-door-overview), integrate web application firewalls.
 
+## 4. Bypassing CDN
+The CDN might serve a cached URL at `/products`, but if an attacker appends the query with a random string like `/products?a=abcd`, the CDN cannot serve the cached page, and the origin server is forced to respond. Similarly, changing user agents, spoofing referrer pages, or launching requests from diverse geographic regions can help attackers evade WAF filtering rules.
+
 ## Extended Readings: 
 - [Parent Page - Bo Cyber LogBook - Web Security Monitoring](web-monitoring.md)
 
