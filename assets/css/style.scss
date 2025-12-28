@@ -36,3 +36,10 @@ h1, h2, h3, h4, .post-title {
 .markdown-body table tr:nth-child(2n) {
   background-color: #cfcac6 !important;
 }
+
+.markdown-body table {
+  width: 100% !important;        /* This stretches the table to fill the space */
+  display: table !important;     /* Ensures it behaves as a standard table */
+  margin-left: 0 !important;      /* Removes any leftover left-side gaps */
+  margin-right: 0 !important;     /* Removes any leftover right-side gaps */
+}
