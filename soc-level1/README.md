@@ -30,7 +30,7 @@ tags:
 * Monitoring
 	* [Web Security Monitoring](web-monitoring/web-monitoring.md)
 	* [Linux Security Monitoring](linux-monitoring/linux-monitoring.md)
-	* Windows Security
+	* [Windows Security Monitoring](win-monitoring/windows-monitoring.md)
 	
 ## Basic Skills
 - [How to Write a Good Report?](5W-report.md)
