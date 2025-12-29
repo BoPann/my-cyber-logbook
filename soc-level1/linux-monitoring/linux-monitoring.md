@@ -32,7 +32,7 @@ But because it’s so popular, it’s also a total magnet for trouble. It’s li
 ### 2.1 SOC Indicators - SSH 
 check `/var/log/auth.log`. There might be indicator for brute-force attack such as multiple failed log in attempt from the same source. 
 
-### 2.2 SOC Indicators - Attacker's first foothold
+### 2.2 SOC Indicators - Attacker's first foothold (Initial Access)
 
 | Discovery Goal                | Typical Commands                                                       |
 | ----------------------------- | ---------------------------------------------------------------------- |

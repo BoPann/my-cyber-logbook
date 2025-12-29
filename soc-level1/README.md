@@ -6,8 +6,8 @@ tags:
 # Bo's SOC Analyst Logbook
 > Hello! Welcome to my journey taking SAL1 from TryHackMe :)
 
-- [My Mid Way Review](../mid-review.md) (yoohoo! half way through!)
-- [My Quarter 3 Review](../two-thrid-review.md) 
+- [My Half Quarter Review](../mid-review.md) (yoohoo! half way through!)
+- [My Third Quarter Review](../third-quarter-review.md) 
 
 ## Technical Skills
 - Framework

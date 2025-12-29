@@ -1,4 +1,0 @@
-
-After mid review, I dive into the security monitoring. While I learn about how to use tools in the mid-review, I learn about how to combine framwork suuch as Cyber Kill Chain and MITRE/ATK to detect and trace the attack. 
-
-I learn about analyse the log using diferent tools (CLI, Linux Log, Windows Process Log, auditd, sysmon, splunk, wireshark, snort) to prove my presumption. Using the knowledge to analyze. For example, when a system got slow down,  I would go ahead and check the syslog and perhaps find a process taking up 90% of the computing power. I then go ahead to check that process ID number and see what it's doing. Oh! It's connecting to a external IP! Shoot! We have a hack and forget attack! Someone is using our laptop as a computing power! 
