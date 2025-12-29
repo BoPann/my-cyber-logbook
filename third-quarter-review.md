@@ -23,16 +23,17 @@ I evaluate investigation in different stages of Cyber Kill Chain including:  ini
 
 ## Table View
 
-| Kill Chain Stage         | Linux – What to Investigate                     | Linux Logs / Commands                            | Windows – What to Investigate                | Windows Logs / Events                              |
-| ------------------------ | ----------------------------------------------- | ------------------------------------------------ | -------------------------------------------- | -------------------------------------------------- |
-| **Initial Access**       | SSH brute force, web exploits, exposed services | `/var/log/auth.log`, `/var/log/secure`, web logs | Phishing, RDP brute force, exploited service | Event **4625**, **4624**, RDP logs                 |
-| **Discovery**            | System & network enumeration                    | `whoami`, `id`, `uname -a`, `ip a`, `ps aux`     | Host, user, domain enumeration               | Event **4688**, PowerShell **4104**, Sysmon **1**  |
-| **Privilege Escalation** | `sudo` abuse, kernel exploits, SUID binaries    | `/var/log/auth.log`, `find / -perm -4000`        | Token abuse, service exploit, LSASS access   | Event **4672**, Sysmon **10**                      |
-| **Lateral Movement**     | SSH reuse, SCP, rsync                           | `/var/log/auth.log`, SSH logs                    | PsExec, WMI, SMB, RDP                        | Event **4624 (Type 3/10)**, **7045**, Sysmon **3** |
-| **Collection**           | Data staging, compression                       | `tar`, `zip`, access to `/home`, `/etc`          | File staging, DB dumps                       | File access logs, archive creation                 |
-| **Defense Evasion**      | Log deletion, auditd disable                    | Missing logs, stopped services                   | Defender disabled, logs cleared              | Event **1102**, Defender logs                      |
-| **Persistence**          | Cron jobs, startup scripts, SSH keys            | `crontab -l`, `/etc/cron*`, `authorized_keys`    | Scheduled tasks, registry run keys, services | Event **4698**, **7045**                           |
-| **Exfiltration**         | SCP, curl, DNS tunneling                        | Firewall logs, Netflow, Wireshark                | HTTPS, C2 traffic                            | Sysmon **3**, proxy/firewall logs                  |
+| Kill Chain Stage         | Linux – What to Investigate                     | Linux Logs / Commands                            | Windows – What to Investigate                | Windows Logs / Events                    |
+| ------------------------ | ----------------------------------------------- | ------------------------------------------------ | -------------------------------------------- | ---------------------------------------- |
+| **Initial Access**       | SSH brute force, web exploits, exposed services | `/var/log/auth.log`, `/var/log/secure`, web logs | Phishing, RDP brute force, exploited service | Event **4625**, **4624**, RDP logs       |
+| **Discovery**            | System & network enumeration                    | `whoami`, `id`, `uname -a`, `ip a`, `ps aux`     | Host, user, domain enumeration               | Event **4688**, Sysmon **1**             |
+| **Privilege Escalation** | `sudo` abuse, kernel exploits, SUID binaries    | `/var/log/auth.log`, `find / -perm -4000`        | Token abuse, service exploit, LSASS access   | Event **4672**, **4732**, Sysmon **10**  |
+| **Lateral Movement**     | SSH reuse, SCP, rsync                           | `/var/log/auth.log`, SSH logs                    | PsExec, WMI, SMB, RDP                        | Event **4624 (Type 3/10)**, Sysmon **3** |
+| **Collection**           | Data staging, compression                       | `tar`, `zip`, access to `/home`, `/etc`          | File staging, DB dumps                       | File access logs, archive creation       |
+| **Defense Evasion**      | Log deletion, auditd disable                    | Missing logs, stopped services                   | Defender disabled, logs cleared              | Event **1102**, Defender logs            |
+| **Persistence**          | Cron jobs, startup scripts, SSH keys            | `crontab -l`, `/etc/cron*`, `authorized_keys`    | Scheduled tasks, registry run keys, services | Event **4698**, **4697**                 |
+| **Exfiltration**         | SCP, curl, DNS tunneling                        | Firewall logs, Netflow, Wireshark                | HTTPS, C2 traffic                            | Sysmon **3**, proxy/firewall logs        |
+
 
 
 ---

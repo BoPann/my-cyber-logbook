@@ -31,14 +31,14 @@ when investigating windows log, it is important that we look for the right log a
 
 ## 2.2 Sysmon
 
-|**Event ID**|**Category**|**Meaning**|**SOC Analyst Perspective**|
-|---|---|---|---|
-|**1**|Process|Process Creation|Shows the **Command Line** (e.g., `powershell.exe -enc...`) and File Hashes.|
-|**3**|Network|Network Connection|Connects a specific process (PID) to a destination IP/Port.|
-|**7**|Image Load|DLL Loaded by process|Detects "DLL Injection" where malware hides inside a legitimate app.|
-|**11**|File Event|File Created|Tracks when an attacker drops a tool (like `mimikatz.exe`) onto the disk.|
-|**12/13/14**|Registry|Registry Key Change|Detects **Persistence** (e.g., malware adding itself to "Run" keys).|
-|**22**|DNS|DNS Query|See exactly what domains a virus is trying to contact (C2 hunting).|
+| **Event ID** | **Category** | **Meaning**           | **SOC Analyst Perspective**                                                  |
+| ------------ | ------------ | --------------------- | ---------------------------------------------------------------------------- |
+| **1**        | Process      | Process Creation      | Shows the **Command Line** (e.g., `powershell.exe -enc...`) and File Hashes. |
+| **3**        | Network      | Network Connection    | Connects a specific process (PID) to a destination IP/Port.                  |
+| **7**        | Image Load   | DLL Loaded by process | Detects "DLL Injection" where malware hides inside a legitimate app.         |
+| **11**       | File Event   | File Created          | Tracks when an attacker drops a tool (like `mimikatz.exe`) onto the disk.    |
+| **12/13/14** | Registry     | Registry Key Change   | Detects **Persistence** (e.g., malware adding itself to "Run" keys).         |
+| **22**       | DNS          | DNS Query             | See exactly what domains a virus is trying to contact (C2 hunting).          |
 
 ## Logon Type
 For 4624 and 4625, we can further investigate the logon type to determin how user log in. 
