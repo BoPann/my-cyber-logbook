@@ -19,7 +19,7 @@ For example, when a system slows down, I would first check the system logs and n
 
 
 ## Description
-We evaluate investigation in different stages of Cyber Kill Chain including:  initial access, discovery, previlege escalation, lateral movement, collection, defense evasion, persistence, exfiltration 
+I evaluate investigation in different stages of Cyber Kill Chain including:  initial access, discovery, previlege escalation, lateral movement, collection, defense evasion, persistence, exfiltration 
 
 ## Table View
 
