@@ -1,3 +1,9 @@
+---
+creation date: 2025-12-18 16:50
+modified: 2025-12-18 21:21
+tags:
+  - cyber/articles
+---
 Today marks my halfway point in the SOC Level 1 certification course. 🎉
 
 I once fell into the classic trap of chasing percentages. I treated them like a report card for my learning. Turns out, that’s not only unrealistic but also a pretty terrible way to measure real progress.
@@ -11,4 +17,9 @@ Honestly, the hardest part isn’t  knowing the material. It’s being able to c
 - SIEM tools like **Kibana** and **Splunk** (especially Splunk), plus network traffic analysis with Wireshark
 - Using tools to analyze data and detect threats such as data exfiltration and MITM attacks
 - Analyzing cybersecurity events using frameworks like MITRE, UKC, and the Pyramid of Pain
+
+---
+Last Modified: 2025-12-18 \
+Have Questions? Shoot me a text >> [Linkedin](https://www.linkedin.com/in/bopann/)
+
 

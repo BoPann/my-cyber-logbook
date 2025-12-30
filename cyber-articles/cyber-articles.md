@@ -12,6 +12,7 @@ While technical skills are critical for staying safe, keeping up with the latest
 - [Are you sure about it? 🤔 - Masquerading](masquerading-malware.md)
 - [Phishing 🎣](phishing.md)
 - [MGM Data Breach](mgm-data-breach.md)
+- [Wazuh FIM Walkthrough](../soc-level1/wazuh-fim.md)
 
 
 ---
