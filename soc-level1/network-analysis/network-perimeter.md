@@ -13,6 +13,5 @@ Network perimeter - the border control
 - Remote Access Gateways / VPNs: Secure entry points for employees working outside the office.
 ---
 Last Modified: 2025-12-27  \
-Have Questions? Shoot me a text >> [Linkedin](https://www.linkedin.com/in/bopann/)
 
 

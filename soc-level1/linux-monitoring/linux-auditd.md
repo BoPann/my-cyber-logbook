@@ -84,6 +84,5 @@ This is the most "data-heavy" part of the log. It explains who did it and what t
     
 ---
 Last Modified: 2025-12-28  \
-Have Questions? Shoot me a text >> [Linkedin](https://www.linkedin.com/in/bopann/)
 
 

@@ -36,6 +36,4 @@ Here are tools we need to analyze traffics
 
 ---
 Last Modified: 2025-12-27  \
-Have Questions? Shoot me a text >> [Linkedin](https://www.linkedin.com/in/bopann/)
-
 

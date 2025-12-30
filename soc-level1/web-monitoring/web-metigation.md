@@ -44,6 +44,5 @@ The CDN might serve a cached URL at `/products`, but if an attacker appends the
 
 ---
 Last Modified: 2025-12-28 \
-Have Questions? Shoot me a text >> [Linkedin](https://www.linkedin.com/in/bopann/)
 
 

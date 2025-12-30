@@ -38,6 +38,5 @@ But we’ve _all_ been there! Spotting a well-crafted phishing email is hard. Do
 
 ---
 Last Modified: 2025-12-27  \
-Have Questions? Shoot me a text >> [Linkedin](https://www.linkedin.com/in/bopann/)
 
 

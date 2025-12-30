@@ -42,6 +42,5 @@ We will spend 90% of our time looking at these two things:
 
 ---
 Last Modified: 2025-12-28  \
-Have Questions? Shoot me a text >> [Linkedin](https://www.linkedin.com/in/bopann/)
 
 

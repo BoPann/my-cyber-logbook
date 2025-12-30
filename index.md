@@ -38,8 +38,6 @@ And who knows? Maybe this will help others who are on the same journey too. 😊
 ---
 
 Last Modified: 2025-12-27  \
-Have Questions? Shoot me a text >> [Linkedin](https://www.linkedin.com/in/bopann/)
-
 
 
 

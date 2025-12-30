@@ -55,6 +55,5 @@ HTTP Response contains:
 
 ---
 Last Modified: 2025-12-28 \
-Have Questions? Shoot me a text >> [Linkedin](https://www.linkedin.com/in/bopann/)
 
 

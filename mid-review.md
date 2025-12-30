@@ -22,6 +22,5 @@ Honestly, the hardest part isn’t  knowing the material. It’s being able to c
 
 ---
 Last Modified: 2025-12-18 \
-Have Questions? Shoot me a text >> [Linkedin](https://www.linkedin.com/in/bopann/)
 
 

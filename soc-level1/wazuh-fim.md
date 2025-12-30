@@ -48,6 +48,5 @@ That's it! Everytime the folder get modified, we will see an alert on our FIM da
 
 ---
 Last Modified: 2025-12-29 \
-Have Questions? Shoot me a text >> [Linkedin](https://www.linkedin.com/in/bopann/)
 
 

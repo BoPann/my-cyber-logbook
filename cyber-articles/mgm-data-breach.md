@@ -43,6 +43,5 @@ The incident is quite recent (2023), and it shows that social engineering is sti
 
 ---
 Last Modified: 2025-12-27  \
-Have Questions? Shoot me a text >> [Linkedin](https://www.linkedin.com/in/bopann/)
 
 

@@ -73,6 +73,5 @@ Event Viewer > Appliction and Service Log > Microsoft > Windows > Sysmon
 
 ---
 Last Modified: 2025-12-28 \
-Have Questions? Shoot me a text >> [Linkedin](https://www.linkedin.com/in/bopann/)
 
 
