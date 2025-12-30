@@ -4,6 +4,8 @@ modified: 2025-12-18 21:21
 tags:
   - cyber/articles
 ---
+# Second Quarter Review
+
 Today marks my halfway point in the SOC Level 1 certification course. 🎉
 
 I once fell into the classic trap of chasing percentages. I treated them like a report card for my learning. Turns out, that’s not only unrealistic but also a pretty terrible way to measure real progress.
