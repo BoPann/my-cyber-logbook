@@ -6,8 +6,6 @@ tags:
   - cyber/atk
 ---
 # MGM Data Breach
-source: [https://netwrix.com/en/resources/blog/mgm-cyber-attack/](https://netwrix.com/en/resources/blog/mgm-cyber-attack/)
-
 <p align="center"> <img src="../cyber-img/dwight-casino.png" style="width: 80%; aspect-ratio: 21 / 9; object-fit: cover; border-radius: 15px;"> </p>
 It took less than 10 minutes on a LinkedIn profile and a single phone call to the helpdesk to bring a $14 billion gambling empire to its knees. No zero-days, no complex coding—just a voice on the line and a password reset that changes everything. 
 
@@ -39,6 +37,7 @@ The incident is quite recent (2023), and it shows that social engineering is sti
 
 ## Extended Readings
 - [Bo Cyber Logbook - Cyber Kill Chain](../soc-level1/framework/cyber-kill-chain.md)
+- source: [https://netwrix.com/en/resources/blog/mgm-cyber-attack/](https://netwrix.com/en/resources/blog/mgm-cyber-attack/)
 
 
 ---
