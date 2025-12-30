@@ -3,7 +3,6 @@ creation date: 2025-12-18 16:50
 modified: 2025-12-18 21:21
 tags:
   - cyber/articles
-layout:
 ---
 Today marks my halfway point in the SOC Level 1 certification course. 🎉
 
