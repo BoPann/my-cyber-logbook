@@ -26,7 +26,9 @@ We will be welcome by a bunch of noise. All we need is to find `<syscheck>` tag.
 ![syscheck](imgs/syscheck-vim.png)
 
 
-Notice that I change the `frequency` to `10`. So our change can be picked up right away. 
+Notice that I change the `frequency` to `10`. So our change can be picked up right away. \
+Alternatively, you can also do `<directories realtime="yes" check_all="yes">/home/subuntu/checkFile</directories>` to turn on the real time check. 
+
 
 Next, we insert this to the terminal (see screenshot) \
 `<directories><FILEPATH_OF_MONITORED_FILE></directories>`\
@@ -47,6 +49,6 @@ That's it! Everytime the folder get modified, we will see an alert on our FIM da
 - [Bo Cyber Logbook - SIEM](tools/SIEM.md)
 
 ---
-Last Modified: 2025-12-29 \
+Last Modified: 2025-12-29 
 
 

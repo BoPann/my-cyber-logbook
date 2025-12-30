@@ -16,7 +16,7 @@ This has been a fun journey with TryHackMe. I learned something new every day â€
 - [day7-network-discovery](day7-network-discovery.md)
 - [day8-hacking-ai](day8-hacking-ai.md)
 - [day9-cracking-password-on-files](day9-cracking-password-on-files.md)
-- [day-10-SOC-triage](day-10-SOC-triage.md)
+- [day10-SOC-triage](day10-SOC-triage.md)
 - [day11-XXS](day11-XXS.md)
 - [day12-phishing](day12-phishing.md)
 - [day13-YARA](day13-YARA.md)
