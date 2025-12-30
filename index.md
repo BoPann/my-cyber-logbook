@@ -2,7 +2,6 @@
 creation date: 2025-12-09 19:18
 modified: 2025-12-27 12:40
 tags:
-layout: default
 ---
 
 # Bo Pan
