@@ -28,9 +28,9 @@ We will be welcome by a bunch of noise. All we need is to find `<syscheck>` tag.
 
 Notice that I change the `frequency` to `10`. So our change can be picked up right away. 
 
-Next, we insert this to the terminal (see screen shot) \
+Next, we insert this to the terminal (see screenshot) \
 `<directories><FILEPATH_OF_MONITORED_FILE></directories>`\
-Like how I did in the last line from the screenshot. Notice by default Wazuh aldeady have some folder configured. 
+Like how I did in the last line from the screenshot. Notice by default Wazuh aldeady have some folders configured. 
 
 Then we leave VIM mode. Restart the agent by running: \
 `systemctl restart wazuh-agent`
