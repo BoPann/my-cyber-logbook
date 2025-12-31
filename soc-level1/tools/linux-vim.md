@@ -6,6 +6,9 @@ tags:
 modified: 2025-12-30 13:11
 ---
 # Do you VIM it? 
+
+<p align="center"> <img src="../../cyber-img/vim-meme.png" style="width: 80%; aspect-ratio: 21 / 9; object-fit: cover; border-radius: 15px;"> </p>
+
 Sometimes we don’t have the luxury of using a GUI text editor—especially on Linux servers. That’s why learning **Vim** is so important.
 
 Sure, there are other tools like `nano`. But Vim was the first editor I was exposed to when learning how to code, so it’s the one I’m most comfortable with. Plus, let’s be honest—Vim is kind of awesome.

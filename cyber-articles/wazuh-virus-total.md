@@ -2,14 +2,24 @@
 creation date: 2025-12-30 11:49
 modified: 2025-12-30 13:12
 tags:
+  - cyber/dfd
+  - cyber/tool
 ---
 # Wazuh Integration with VirualTotal
 
-# Overview
+<p align="center"> <img src="../cyber-img/chandler-sofa.png" style="width: 80%; aspect-ratio: 21 / 9; object-fit: cover; border-radius: 15px;"> </p>
 
-Prerequisites
-1. FIM 
-2. Virus Total API
+# Overview
+Could this _be_ any more automated?
+
+Imagine you’re at the **Helpdesk** and a user downloads a "definitely-not-a-virus.exe." Without this integration, you'd have to manually grab the hash, go to the VirusTotal website, and see if it’s evil. I mean, what is this, 1994?
+
+With the **Wazuh + VirusTotal** integration, the dots don't just connect; they basically draw the whole picture for you.
+
+## Before We Begin
+2 Prerequisites
+1. FIM see [Wazuh FIM (File Integrity Management)](../soc-level1/wazuh-fim.md)
+2. Virus Total API [Link to VirusTotal](https://www.virustotal.com/gui/home/upload)
 
 
 ## How it Works? 
@@ -31,7 +41,7 @@ This integration uses the VirusTotal API to detect malicious content within the 
         
 Wazuh logs the triggered alert in the `/var/ossec/logs/integrations.log` file and stores it in the `/var/ossec/logs/alerts/alerts.log` file with all other alerts.
 
-## Steps
+## Steps - Let's Begin
 
 On the Wazuh Server Machine. Server! I repeat. Don't go to the agent machine like I did :)\
 run `vim /var/ossec/etc/ossec.conf`
@@ -128,6 +138,19 @@ Now back to the agent and try to download the testing file again\
 Go to Wazuh -> Threat Hunting -> Event\
 You should see: \
 `Active response: active-response/bin/remove-threat.sh - add`
+
+
+## Limitation 
+If you are using free plan for Virus Total, you are very likely hit the limit really quick if you are monitoing a huge set of folder. The free plan offers: 
+
+|   |   |
+|---|---|
+|Request rate|4 lookups / min|
+|Daily quota|500 lookups / day|
+|Monthly quota|15.5 K lookups / month|
+
+Therefore, a workaround is using [Yara](../advent-of-cyber-2025/day13-YARA.md). YARA is a very popular open-source and multi-platform tool (it works with most hosts running Windows, Linux, or Mac operating systems) that provides a mechanism to exploit code similarities between malware samples within a family. We can enable Yara integration with Wazuh. I might do a walkthrough in the future as well! Stay tuned!
+
 
 ## Resources:
 - [Wazuh and Virustotal Integrations](https://documentation.wazuh.com/current/user-manual/capabilities/malware-detection/virus-total-integration.html)

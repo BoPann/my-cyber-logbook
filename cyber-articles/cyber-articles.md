@@ -13,10 +13,11 @@ While technical skills are critical for staying safe, keeping up with the latest
 - [Phishing 🎣](phishing.md)
 - [MGM Data Breach](mgm-data-breach.md)
 - [Wazuh FIM Walkthrough](../soc-level1/wazuh-fim.md)
+- [Wazuh VirusTotal Integration Walkthrough(wazuh-virus-total.md)
+- [Linux Vim Editor](../soc-level1/tools/linux-vim.md)
 
 
 ---
 Last Modified: 2025-12-27  \
-Have Questions? Shoot me a text >> [Linkedin](https://www.linkedin.com/in/bopann/)
 
 

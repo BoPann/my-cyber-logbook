@@ -29,4 +29,3 @@ YARA is a very popular open-source and multi-platform tool (it works with most h
 
 ## Sources
 - [Yara Rule On Github](https://github.com/Neo23x0/signature-base)
-- 
