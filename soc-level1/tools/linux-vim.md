@@ -16,7 +16,7 @@ Sure, there are other tools like `nano`. But Vim was the first editor I was expo
 Here, I document everything I need to survive (and thrive) using Vim on Linux.
 
 
-## In “Insert” mode:
+## In “normal” mode (the default mode when you enter Vim):
 - G → Jump to the last line
 - gg → to first line
 - 0 → to the start of a line
