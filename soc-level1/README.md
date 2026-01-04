@@ -4,7 +4,6 @@ modified: 2025-12-12 09:38
 tags:
 ---
 # Bo's SOC Analyst Logbook
-> Hello! Welcome to my journey taking SAL1 from TryHackMe :)
 
 <p align="center"> 
   <img src="../cyber-img/me-cat.png" style="width: 70%; aspect-ratio: 21 / 13 ; object-fit: cover; border-radius: 15px;"> 
