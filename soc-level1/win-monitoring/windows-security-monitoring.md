@@ -4,12 +4,14 @@ modified: 2025-12-28 19:29
 tags:
   - cyber/dfd
   - cyber/sys
+  - cyber/windows
 ---
 # Windows Security Monitoring
 ## 1. Overview
-Here, we walk through the different stages of the Cyber Kill Chain and show how to investigate each stage using indicators.
+Here, we walk through the different stages of the Cyber Kill Chain and show how to investigate each stage using indicators
 
-For details in windows logs, see [Bo Cyber Logbook - Windows Logs](windows-logs.md)
+For details in windows logs ID, see [Bo Cyber Logbook - Windows Logs IDs](windows-logs-id.md)
+For different windows event log types, see [Bo Cyber Logbook - Windows Event Log Types](../../tcm-practical-help-desk/windows-log-types.md)
 
 ## 2.1 Indicators - Initial Access
 **Instant Attacks:** Research shows that an exposed RDP port is usually discovered by automated botnets and hit with brute-force attempts within **one minute** of going online.
@@ -39,7 +41,7 @@ usually involves open files
 	- ParentImage: C:\Windows\Explorer.EXE
 
 ## 2.3 Indicators - Discovery
-The first task to detect a potential Discovery is to find a Discovery command, or better, a sequence of commands run during a short period of time. You will see them as process creation events tracked by Sysmon event ID 1 or as new rows in the PowerShell history file.
+The first task to detect a potential Discovery is to find a Discovery command, or better, a sequence of commands run during a short period of time. You will see them as process creation events tracked by Sysmon event ID 1 or as new rows in the PowerShell history file. ID 4663 File Access
 
 ## 2.4 Indicators - Collection
 In Collection, threat actors don't just check a system configuration but rather look for specific files and folders such as password, secrect, .pdf, .csv, .temp basically any folder that can store valuable data. 
@@ -56,7 +58,7 @@ Once inside, the attack will want to maintain persistence. Ways including C2, cr
 
 
 ## Extended Readings
-- [Bo Cyber Logbook - Windows Logs](windows-logs.md)
+- [Bo Cyber Logbook - Windows Logs](windows-logs-id.md)
 - [Bo Cyber Logbook - Web Monitoring](../web-monitoring/web-monitoring.md)
 - [Bo Cyber Logbook - Linux Monitoring](../linux-monitoring/linux-monitoring.md)
 - [Bo Cyber Logbook - Network Analysis](../network-analysis/network-analysis.md)
@@ -64,7 +66,6 @@ Once inside, the attack will want to maintain persistence. Ways including C2, cr
 
 
 ---
-Last Modified: 2025-12-28  \
-Have Questions? Shoot me a text >> [Linkedin](https://www.linkedin.com/in/bopann/)
+Last Modified: 2025-12-28
 
 

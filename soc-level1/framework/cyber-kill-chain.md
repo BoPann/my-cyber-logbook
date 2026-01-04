@@ -21,7 +21,7 @@ Knowing this help the defenders predict the nest step of the attackers, and it a
 - Weaponization
 	- create Malware, exploits, payload
 - Delivery
-	- phishing, USB, [watering-hole](watering-hole.md)
+	- phishing, USB, [watering-hole](../atks/watering-hole.md)
 - Exploitation
 	- Exploitation is the moment the attacker's code executes on the target, taking advantage of a known vulnerability
 	- malicious macro exe, 0-day, known CVEs

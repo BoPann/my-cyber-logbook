@@ -18,7 +18,7 @@ With the **Wazuh + VirusTotal** integration, the dots don't just connect; they b
 
 ## Before We Begin
 2 Prerequisites
-1. FIM see [Wazuh FIM (File Integrity Management)](../soc-level1/wazuh-fim.md)
+1. FIM see [Wazuh FIM (File Integrity Management)](wazuh-fim.md)
 2. Virus Total API [Link to VirusTotal](https://www.virustotal.com/gui/home/upload)
 
 

@@ -32,7 +32,7 @@ We will spend 90% of our time looking at these two things:
 
 ## Extended Readings:
 - [Bo Cyber Logbook - Web Basics](web-basics.md)
-- [Bo Cyber Logbook - Windows Logs](windows-logs.md)
+- [Bo Cyber Logbook - Windows Logs](../win-monitoring/windows-logs-id.md)
 - [Bo Cyber Logbook - Windows Security Monitoring](../win-monitoring/windows-monitoring.md)
 - [Bo Cyber Logbook - Linux Monitoring](../linux-monitoring/linux-monitoring.md)
 - [Bo Cyber Logbook - Network Analysis](../network-analysis/network-analysis.md)

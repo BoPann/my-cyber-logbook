@@ -1,3 +1,10 @@
+---
+creation date: 2025-12-25 21:07
+modified: 2026-01-03 12:45
+tags:
+  - cyber/linux
+  - cyber/tool
+---
 # Linux Log Analysis
 
 This page docs the common log file in linux system. To see how to use command line to analyze them, see [Bo Cyber Logbook - Log Analysis](../network-analysis/log-analysis.md)
@@ -44,3 +51,9 @@ We can view the generated logs in real time in `/var/log/audit/audit.log`, but 
 - [Bo Cyber Logbook - Linux Auditd Log](linux-auditd.md)
 - [Bo Cyber Logbook - Log Analysis](my-cyber-logbook/soc-level1/network-analysis/log-analysis.md)
 - [Bo Cyber Logbook - Snort](../tools/snort.md)  << unlike `auditd`log endpoint activity, Snot focus on network log.
+
+
+---
+Last Modified: 2026-01-03
+
+

@@ -1,6 +1,6 @@
 ---
 creation date: 2025-12-26 11:34
-modified: 2025-12-28 14:12
+modified: 2026-01-03 12:45
 tags:
   - cyber/dfd
   - cyber/networking
@@ -72,8 +72,9 @@ We check `top` or `Auditd`. If we find a process named `[kworker]` (trying to lo
 - [Bo Cyber Logbook - Phishing Analysis](../phishing-analysis/phishing.md)
 
 
+
 ---
-Last Modified: 2025-12-28 \
-Have Questions? Shoot me a text >> [Linkedin](https://www.linkedin.com/in/bopann/)
+Last Modified: 2026-01-03
+
 
 

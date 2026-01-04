@@ -4,7 +4,7 @@ modified: 2025-12-15 17:30
 tags:
 ---
 
-## 
+## DHCP Hankshake
 
 
 | **Step**                          | **DHCP Message**  | **Client → Server**          | **Description**                                                                                                                                                                                                                                                  |

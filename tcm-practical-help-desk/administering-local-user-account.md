@@ -4,7 +4,7 @@ modified: 2025-12-22 22:17
 tags:
   - cyber/sys
 ---
-# Aministerin Local User Account
+# Administering Local User Account
 
 ## 2. Overview
 Access Control is about the user's privilege - who can do what?
@@ -32,4 +32,3 @@ Access Control Management is a important part of the help desk job. It is also a
 - [Windows Process](https://tryhackme.com/room/btwindowsinternals)
 
 
->last modified: 2025-12-22

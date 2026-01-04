@@ -1,8 +1,9 @@
 ---
 creation date: 2025-12-22 19:24
-modified: 2025-12-22 22:18
+modified: 2026-01-03 12:59
 tags:
   - cyber/sys
+  - cyber/windows
 ---
 # Windows Process
 
@@ -56,4 +57,7 @@ tags:
 ## Resources 
 - [Core Process in Windows System](https://0xcybery.github.io/blog/Core-Processes-In-Windows-System0)
 
->last modified: 2025-12-22
+
+---
+Last Modified: 2026-01-03
+

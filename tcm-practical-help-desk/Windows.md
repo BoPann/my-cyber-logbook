@@ -1,5 +1,5 @@
 
-- [local-and-domain-account](local-and-domain-account.md)
-- [administering-local-user-account](administering-local-user-account.md)
-- [windows-log-event-viewer](windows-log-event-viewer.md)
-- 
+## Windows Essentials
+- [Local and Domain Account](local-and-domain-account.md)
+- [Administering Local User Account](administering-local-user-account.md)
+- [Windows Event Logs](windows-log-types.md)

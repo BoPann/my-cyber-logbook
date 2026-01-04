@@ -6,6 +6,8 @@ tags:
 # Bo's SOC Analyst Logbook
 > Hello! Welcome to my journey taking SAL1 from TryHackMe :)
 
+<p align="center"> <img src="../cyber-img/me-cat.png" style="width: 80%; aspect-ratio: 21 / 9 object-fit: cover; border-radius: 15px;"> </p>
+
 - [My Half Quarter Review](../mid-review.md) (yoohoo! half way through!)
 - [My Third Quarter Review](../third-quarter-review.md) 
 

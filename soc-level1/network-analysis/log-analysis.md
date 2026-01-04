@@ -11,7 +11,8 @@ tags:
 
 ## 1. Overview
 Log is a record of events. Part of what analysts do is to know how to extract valuable information from a pile of logs.  
-### 1.1 Logs 
+
+### 1.1 Logs Types
 - host-centric logs 
 - network-centric logs 
 

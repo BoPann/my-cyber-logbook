@@ -21,6 +21,6 @@ Honestly, the hardest part isn’t  knowing the material. It’s being able to c
 - Analyzing cybersecurity events using frameworks like MITRE, UKC, and the Pyramid of Pain
 
 ---
-Last Modified: 2025-12-18 \
+Last Modified: 2025-12-18 
 
 
