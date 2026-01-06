@@ -10,8 +10,13 @@ tags:
 ## 1. Overview
 Here, we walk through the different stages of the Cyber Kill Chain and show how to investigate each stage using indicators
 
-For details in windows logs ID, see [Bo Cyber Logbook - Windows Logs IDs](windows-logs-id.md)
+For details in windows logs ID, see [Bo Cyber Logbook - Windows Logs IDs](windows-logs-id.md)\
 For different windows event log types, see [Bo Cyber Logbook - Windows Event Log Types](../../tcm-practical-help-desk/windows-log-types.md)
+
+Analyzing Windows Log can be daunting. Aside from SIEM, there are some handy tools for this job. We explored those tools in TryHackMe Tempest Room - [https://tryhackme.com/room/tempestincident](https://tryhackme.com/room/tempestinciden)
+- Timeline Explorer (allows as to view the events in one place. Similar to Event Viewer but with better view. Need to transfer log to .csv first.)
+- Sysmon View (allows us to view log in a process view and see what happened in a timeline. Need to transfer log to .xml first)
+
 
 ## 2.1 Indicators - Initial Access
 **Instant Attacks:** Research shows that an exposed RDP port is usually discovered by automated botnets and hit with brute-force attempts within **one minute** of going online.

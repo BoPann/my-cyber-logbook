@@ -1,6 +1,6 @@
 ---
 creation date: 2025-12-17 12:34
-modified: 2025-12-17 12:39
+modified: 2026-01-06 11:22
 tags:
   - cyber/linux
   - cyber/tool
@@ -10,7 +10,7 @@ tags:
 <p align="center"> <img src="../../cyber-img/dwight-sheriff.png" style="width: 80%; aspect-ratio: 21 / 9; object-fit: cover; border-radius: 15px;"> </p>
 
 ## 1. Overview
-Log is a record of events. Part of what analysts do is to know how to extract valuable information from a pile of logs.  
+Log is a record of events. Part of what analysts do is to know how to extract valuable information from a pile of logs. Often times we need to do **Event Correlation** by checking different logs sources to identify signifiant events. 
 
 ### 1.1 Logs Types
 - host-centric logs 
@@ -55,3 +55,12 @@ However, in **command line Interface** environment, this can get really overwhel
 ## Extended Readings: 
 - [Bo Cyber Logbook - Linux Log Analysis](../linux-monitoring/linux-log-analysis.md)
 - [Bo Cyber Logbook - Linux Security Monitoring](../linux-monitoring/linux-monitoring.md)
+- [Bo Cyber Logbook - Web Monitoring](../web-monitoring/web-monitoring.md)
+- [Bo Cyber Logbook - Windows Security Monitoring](../win-monitoring/windows-security-monitoring.md)
+
+
+
+---
+Last Modified: 2026-01-06
+
+

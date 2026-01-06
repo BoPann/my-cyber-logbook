@@ -34,7 +34,7 @@ After having the full picture, we choose the best response (Remediation).
 | ------------- | ----------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | **1. Verify** | Determine if the alert is a "False Positive."   | **Knowing which logs to check.** (e.g., checking host logs to see if a file was actually executed). Tools: SIEM, Log                                        |
 | **2. Enrich** | Add context via Threat Intel (CTI) or identity. | **Understanding the baseline.** (e.g., is it "normal" for this specific user to access these files?). Who owns this IP? Tools: VirusTotal, Whois, AD... etc |
-| **3. Decide** | Remediate or escalate the threat.               | **Explaining your decision.** Why esclating or close?                                                                                                       |
+| **3. Decide** | Remediate or escalate the threat.               | **Explaining your decision.** Why esclating?                                                                                                                |
 
 
 ---
