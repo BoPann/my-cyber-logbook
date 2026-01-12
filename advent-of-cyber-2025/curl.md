@@ -11,3 +11,4 @@ Browser is one way how normal user interact with the web. However, it is not the
 - -c - save cookies `curl -c cookies.txt -d "username=admin&password=admin" http://MACHINE_IP/session.php`
 - -b - resued the saved cookies `curl -b cookies.txt http://MACHINE_IP/session.php`
 - -A - custom user agent `curl -A "internalcomputer" http://MACHINE_IP/ua_check.php`
+- -v - verbose mode, shows hearder and response

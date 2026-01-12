@@ -30,4 +30,4 @@ This has been a fun journey with TryHackMe. I learned something new every day â€
 - [day21-malware-analysis](day21-malware-analysis.md)
 - [day22-c2](day22-c2.md)
 - [day23-aws](day23-aws.md)
-- [day24-curl](day24-curl.md)
+- [curl](curl.md)

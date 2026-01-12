@@ -7,7 +7,6 @@ tags:
 - What is port? 
 - what is port scanning
 - indicators of malicious powershell command (obsucated code, IEX)
-- 
 
 
 ## Resources

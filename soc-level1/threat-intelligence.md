@@ -22,6 +22,7 @@ tags:
 - hybrid analysis - https://hybrid-analysis.com/
 - https://talosintelligence.com/talos_file_reputation
 - LOLBin - https://lolbas-project.github.io/#
+- CrackHash (known mapping of hash) - https://crackstation.net/
 
 ## IP Intel
 ### 2 questions to ask 
@@ -71,5 +72,4 @@ tags:
 
 ---
 Last Modified: 2026-01-02
-
 

@@ -15,9 +15,9 @@ While technical skills are critical for staying safe, keeping up with the latest
 - [Wazuh FIM Walkthrough](wazuh-fim.md)
 - [Wazuh VirusTotal Integration Walkthrough](wazuh-virus-total.md)
 - [Linux Vim Editor](../soc-level1/tools/linux-vim.md)
-- [Alert Triage](alert-triage.md)
+- [Alert Triage](../../alert-triage.md)
 - [IBM 2026 Prediction](ibm-2026.md)
-- 
+- [5 Security Principles](security-principles.md)
 
 
 ---
