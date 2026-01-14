@@ -20,6 +20,7 @@ While technical skills are critical for staying safe, keeping up with the latest
 - [5 Security Principles](security-principles.md)
 - [Google Dorking](dork-gemini.md)
 - [Carding](carding.md)
+- [IDOR Broken Access Control](article-broken-access-control.md)
 
 
 ---

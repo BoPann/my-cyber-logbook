@@ -8,7 +8,7 @@ tags:
 Think about you walk in to a bank and go strait into the vault where all the money are stored. That easy? You think. It will be if no one was check along the way. 
 
 ## 2. Description
-- This is also known as Broken Access Control. This is on top of the most severe web app security risk by OWASP
+- This is also known as **Broken Access Control**. This is on top of the most severe web app security risk by OWASP
 
 ### 2.1 Insecure Direct Object Reference (IDOR)
 That’s when an app basically says, “Sure, help yourself,” and hands a user data they should _definitely_ not be seeing.
